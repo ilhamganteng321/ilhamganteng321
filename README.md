@@ -1,6 +1,6 @@
-# Hi there 👋 I'm [Nama Kamu]
+# Hi there 👋 I'm [Ilham arip]
 
-🔥 Passionate about **Web Development** & **Open Source**  
+🔥 Passionate about **Web Development ** & **Open Source**  
 🌱 Currently learning **React.js**  
 💬 Ask me about **JavaScript, Python**  
 📫 How to reach me: [Email](mailto:youremail@example.com)  
