@@ -1,4 +1,4 @@
-# Hello World! 👋 I'm Ilham 
+# Hello World! 👋 I'm Ilham Arip
 
 [![Website](https://img.shields.io/badge/Portfolio-IlhamGanteng321-blue?style=flat&logo=google-chrome)](https://ilhamganteng321.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-IlhamGanteng321-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/ilhamganteng321)
@@ -17,6 +17,7 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
 
 **Frameworks/Libraries:**  
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
