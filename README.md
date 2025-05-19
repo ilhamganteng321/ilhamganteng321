@@ -63,7 +63,7 @@
 ---
 
 📫 **How to reach me:**  
-🔗 [Portfolio](https://ilhamganteng321.dev) | ✉️ [Email](mailto:ilham@example.com)  
+🔗 [Portfolio](https://kuportopolio.netlify.app) | ✉️ [Email](mailto:ilhamariforpin007tea@gmail.com)  
 
 ⭐ **Fun Challenge:** Star one of my repos and I'll tweet about you!  
 
