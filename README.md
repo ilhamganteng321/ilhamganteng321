@@ -10,6 +10,8 @@
 - **Backend**: Node.js, Python
 - **Tools**: Git, VS Code, Figma
 
+![License](https://img.shields.io/github/license/ilhamganteng321/ilhamganteng321)
+
 ### 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=radical)
 
