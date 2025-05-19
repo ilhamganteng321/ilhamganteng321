@@ -16,3 +16,5 @@
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact)](https://github.com/username)
+
+![Top Lang](https://img.shields.io/github/languages/top/ilhamganteng321/ilhamganteng321)
