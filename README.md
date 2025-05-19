@@ -63,7 +63,7 @@
 ---
 
 📫 **How to reach me:**  
-🔗 [Portfolio](https://kuportopolio.netlify.app) | ✉️ [Email](mailto:ilhamariforpin007tea@gmail.com)  
+🔗 [Portfolio](https://kuportofolio.netlify.app) | ✉️ [Email](mailto:ilhamariforpin007tea@gmail.com)  
 
 ⭐ **Fun Challenge:** Star one of my repos and I'll tweet about you!  
 
